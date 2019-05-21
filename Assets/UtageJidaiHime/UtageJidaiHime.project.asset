@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f183272568e6f94382e3b59c0de76cd, type: 3}
+  m_Name: UtageJidaiHime.project
+  m_EditorClassIdentifier: 
+  excelList: []
+  chapterDataList:
+  - chapterName: Boot
+    excelList:
+    - {fileID: 102900000, guid: 63a3aa8397e42964e8d86fbcc0270823, type: 3}
+    excelDir: {fileID: 0}
+  checkWaitType: 0
+  checkWhiteSpaceEndOfCell: 1
+  checkTextCount: 1
+  scenarios: {fileID: 11400000, guid: e73e49159ee57174bb0621e60c995b6c, type: 2}
+  autoImportType: 0
+  convertPath: 
+  convertVersion: 0
+  isAutoUpdateVersionAfterConvert: 0
+  isAutoConvertOnImport: 0
+  customInportSpriteFolders:
+  - {fileID: 102900000, guid: 3653b5dc23bb7f746ab1c05e146d0ce9, type: 3}
+  - {fileID: 102900000, guid: d1029fa8fcff3e84ba29bef99f68bed8, type: 3}
+  - {fileID: 102900000, guid: 4599a1a5bda93414c9ed2aba7eb1e7c7, type: 3}
+  - {fileID: 102900000, guid: 24a9611f17c784c499b1d7b8deeaa3ce, type: 3}
+  - {fileID: 102900000, guid: e8b6538ce07986044a5b020c9257aaf2, type: 3}
+  customInportAudioFolders:
+  - {fileID: 102900000, guid: f02f6907be2545b46a0f175ed55ba1fe, type: 3}
+  - {fileID: 102900000, guid: 0912b85ebe47a6545ba1e3e857f3e9fd, type: 3}
+  - {fileID: 102900000, guid: 537acf3a6c89d3644b93e0acd0446167, type: 3}
+  - {fileID: 102900000, guid: 21e3d91b5f775d6489717dae1c993430, type: 3}
+  customInportMovieFolders: []
+  quickImport: 0
+  parseFormula: 0
+  parseNumreic: 0
